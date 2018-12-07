@@ -1,5 +1,4 @@
-# GamblingDocument
-## 菠菜需求文档
+# 菠菜需求文档
 
 ### PM: 熊猫头
 
